@@ -18,7 +18,7 @@
 
 ### Портфолио
 
-* 
+* [Terminal](https://github.com/Sawa-solo/Terminal.git)
 * [SQL](https://github.com/Sawa-solo/SQL.git)
 * [Postman](https://github.com/Sawa-solo/Postman.git)
 * [XML](https://github.com/Sawa-solo/XML.git)

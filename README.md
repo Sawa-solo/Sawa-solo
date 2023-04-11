@@ -10,6 +10,9 @@
 
 ### Мои резюме 
 
-  [Резюме с HeadHunter](https://drive.google.com/file/d/1Q4Vf4NmmBFJQA5PYQhBwXn_RBr1JYBii/view?usp=sharing)
+ [Резюме (PDF)](https://drive.google.com/file/d/1jw0HLmUyKq2oHj0HDTTL2JTBEMGfC618/view?usp=sharing)
+ 
+ [Резюме на HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=82183837ff0bc97afc0039ed1f397253567330)
+
 
 

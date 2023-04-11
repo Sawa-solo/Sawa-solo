@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/Sawa-solo/assets/blob/57676cc2ca8cb5be6802abf3850430735ba31e61/WelcomeHeader.png)
 
 ### Привет 👋
 Я — Саша, начинающий QA Engineer.

@@ -8,11 +8,19 @@
 
 -------
 
-### Мои резюме 
+### Резюме 
 
  [Основное резюме (PDF)](https://drive.google.com/file/d/1jw0HLmUyKq2oHj0HDTTL2JTBEMGfC618/view?usp=sharing)
  
  [Резюме на HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=82183837ff0bc97afc0039ed1f397253567330)
 
+-------
 
+### Портфолио
+
+* 
+* [SQL](https://github.com/Sawa-solo/SQL.git)
+* [Postman](https://github.com/Sawa-solo/Postman.git)
+* [XML](https://github.com/Sawa-solo/XML.git)
+* [JSON](https://github.com/Sawa-solo/JSON.git)
 

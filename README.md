@@ -23,4 +23,4 @@
 * [Postman](https://github.com/Sawa-solo/Postman.git)
 * [XML](https://github.com/Sawa-solo/XML.git)
 * [JSON](https://github.com/Sawa-solo/JSON.git)
-* [Документация: баг-репорты, чек-листы]
+* [Документация: баг-репорты, чек-листы](в процессе добавления)

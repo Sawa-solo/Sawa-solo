@@ -10,9 +10,7 @@
 
 ### Резюме 
 
- [Основное резюме (PDF)](https://drive.google.com/file/d/1uPawkvS4YBOKc34GSaIbKRoIuGGQKO0a/view?usp=sharing)
- 
- [Резюме на HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=82183837ff0bc97afc0039ed1f397253567330)
+[Резюме на HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=82183837ff0bc97afc0039ed1f397253567330)
 
 -------
 
